@@ -9,13 +9,13 @@
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
+1.  npm install
+2.  npm run dev
 3.  xxxx
 
 #### 使用说明
 
-1.  xxxx
+1.  有些依赖需要单独安装
 2.  xxxx
 3.  xxxx
 
