@@ -1,0 +1,56 @@
+{
+  "status": "success",
+  "token": "eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE1NzY1NjMzNTcsInN1YiI6IjEyMzEyMyIsImNyZWF0ZWQiOjE1NzY1NjE1NTc3MTN9.J60pKtVd47gGGwo6rsfmOPbp75P7GibgtRvoaRxih8sKUyPF8BaldUxUYzhZUj6gs2IJxzWV2c4pl6EZA8oQCQ",
+  "msg": {
+      "id": 41,
+      "account": "123123",
+      "password": "0",
+      "name": "123123",
+      "idCard": "123123",
+      "phone": "123123",
+      "gender": "1",
+      "roles": [
+          {
+              "id": 0,
+              "roleName": "房屋负责人"
+          },
+          {
+              "id": 0,
+              "roleName": "房屋管家"
+          }
+      ],
+      "serviceMenus": [
+          {
+              "id": 0,
+              "url": "/HouseServiceSvr",
+              "component": "a",
+              "roles": null
+          },
+          {
+              "id": 0,
+              "url": "/SingedServiceSvr",
+              "component": "c",
+              "roles": null
+          },
+          {
+              "id": 0,
+              "url": "/ManagementServiceSvr",
+              "component": "b",
+              "roles": null
+          }
+      ],
+      "enabled": true,
+      "username": "123123",
+      "authorities": [
+          {
+              "authority": "房屋负责人"
+          },
+          {
+              "authority": "房屋管家"
+          }
+      ],
+      "accountNonExpired": true,
+      "accountNonLocked": true,
+      "credentialsNonExpired": true
+  }
+}
